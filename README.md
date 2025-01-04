@@ -1,22 +1,16 @@
-> **代码包运行启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！有不懂的地方随便问！问到会为止！**
-> 
-> **源码图片效果在下面，滑动滑轮观看效果！！！！**
-## 源码获取（4.9米）：
-![微信图片_20241218164848](https://github.com/user-attachments/assets/c524a2a2-2f80-4b53-beaa-46590c3570ab)
-
-> **大家点赞、收藏、关注、评论区留言、点我主页或者私聊我获取代码**
-
 ## 【功能介绍】
 主要功能∶有2个角色
 
 【普通用户角色】基本信息（个人信息、家人情况），生活情况（每月餐饮、外出报备），收费标准（入住费用、护理费用）
 【超级管理员角色】：用户账号管理、健康管理（健康档案、病例档案、药品管理）、生活管理（每月餐饮、外出报备）、入住管理（入住登记、寝室分配）、安全管理（事故记录、访客记录）、收费标准（入住费用、护理费用）
 ## 【技术选型】
-
 ①：架构: B/S、MVC
 ②：系统环境：Windows
 ③：开发环境：IDEA、JDK1.8、Maven、Mysql
 ④：技术栈：Java、MySQL、SpringBoot、Mybatis、HTML、ajax、JavaScript、Layui、HandlerInterceptor拦截器、echarts图
+> **代码提供有偿远程调试，29包启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！提供有偿讲解，有不懂的地方随便问！问到会为止！**
+## 源码获取（4.9元包含代码+数据库+有的送报告文档具体扫码询问，代码截图、功能效果截图在下面）：
+![微信图片_20241218164848](https://github.com/user-attachments/assets/646b2784-afb8-47ee-a4d4-5ccc9f96b331)
 ![image](https://github.com/user-attachments/assets/9d269981-28d5-4d48-a048-5d22c6d42323)
 ![image](https://github.com/user-attachments/assets/7e8584e4-730e-4e81-adfc-34452d4d3927)
 ![image](https://github.com/user-attachments/assets/0c0d7fd8-1ef9-4894-9ef4-c04dc22cc734)
